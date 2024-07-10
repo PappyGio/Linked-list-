@@ -1,3 +1,7 @@
+//Pair o mancer but linked list edition 
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
